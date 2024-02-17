@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **safayathossain40@gmail.com**
 
-- ⚡ Fact **That which does not kill us makes us stronger.**
+- ⚡ Fact **“Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.”
+― Friedrich Nietzsche **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
