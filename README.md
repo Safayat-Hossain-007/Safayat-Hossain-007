@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safayat-hossain-007&label=Profile%20views&color=0e75b6&style=flat" alt="safayat-hossain-007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safayat-hossain-007" alt="safayat-hossain-007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/safayatvelo007" target="blank"><img src="https://img.shields.io/twitter/follow/safayatvelo007?logo=twitter&style=for-the-badge" alt="safayatvelo007" /></a> </p>
 
