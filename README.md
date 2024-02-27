@@ -26,6 +26,8 @@
 <a href="https://fb.com/safayat.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safayat.12" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/safayat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="safayat hossain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/safayat_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safayat_007" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/safbro12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safbro12" height="30" width="40" /></a>
+<a href="https://judge.beecrowd.com/en/profile/427002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shossain309" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
