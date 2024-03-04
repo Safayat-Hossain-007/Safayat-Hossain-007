@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Safayat-Hossain-007](Safayat-Hossain-007)
 
-- 📫 How to reach me **safayathossain40@gmail.com**
+-  How to reach me **safayathossain40@gmail.com**
 
 - ⚡ Fact: **Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.”
 ― Friedrich Nietzsche**
