@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/safayatvelo007" target="blank"><img src="https://img.shields.io/twitter/follow/safayatvelo007?logo=twitter&style=for-the-badge" alt="safayatvelo007" /></a> </p>
 
-- 🌱 I’m currently learning **Java, python, SpringBoot, JavaScript, React, Data Science and Machine Learning**
+- I’m currently learning **Java, python, SpringBoot, JavaScript, React, Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Safayat-Hossain-007](Safayat-Hossain-007)
+- All of my projects are available at [Safayat-Hossain-007](Safayat-Hossain-007)
 
--  How to reach me **safayathossain40@gmail.com**
+- How to reach me **safayathossain40@gmail.com**
 
-- ⚡ Fact: **Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.”
+- Fact: **Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.”
 ― Friedrich Nietzsche**
 
 <h3 align="left">Connect with me:</h3>
