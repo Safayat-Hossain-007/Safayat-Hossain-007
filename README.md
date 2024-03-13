@@ -21,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/safayatvelo007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safayatvelo007" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/safayat-hossain05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safayat-hossain05" height="30" width="40" /></a>
-<a href="https://fb.com/safayat.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safayat.12" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/safayat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="safayat hossain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/safayat_007" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safayat_007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/safbro12" target="_main"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="safbro12" height="30" width="40" /></a>
