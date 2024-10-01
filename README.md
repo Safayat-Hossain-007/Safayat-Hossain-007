@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.youtube.com/c/safayat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="safayat hossain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/safayat_007" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safayat_007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/safbro12" target="_main"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="safbro12" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/safayat_hossain007" target="_main"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="safbro12" height="30" width="40" /></a>
 
 </p>
 
